@@ -31,7 +31,7 @@ class Matrix{
                 delete ptr[i];
             }
 
-            LOG("Data delleted successfully!");
+            LOG("Data deleted successfully!");
         }
 
         friend std::ostream& operator << (std::ostream& stream, const Matrix<T, n>& e){
