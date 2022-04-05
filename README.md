@@ -11,3 +11,4 @@ The program only does four things: create, fill, print and delete a matrix of 10
 The data structure is T** ptr[n]. this means an array of pointers to pointers. Each pointer (in this case) points to an array of pointers to T data. As a result, we got a matrix. Here we're using the two cases before mentioned.
 
 If you wanna take a look of classes, templates, macros, constructors, destructors and output flow operators, this program has some examples of those topics. 
+That's all. I hope you like my work, feel free to ask anything you want and use this program as you want.
